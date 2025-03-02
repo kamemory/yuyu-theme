@@ -1,0 +1,9 @@
+{
+  "colors": {
+    "colorKeyword": "#5a578f",
+    "colorComment": "#147a14",
+    "colorInterface": "#938c73",
+    "colorClassName": "#6252cc",
+    "colorField": "#660e7a"
+  }
+}
