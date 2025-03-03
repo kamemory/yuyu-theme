@@ -1,7 +1,7 @@
 {
   "ui": {
     "*": {
-      "background": "colorPrimarySubtle",
+      "background": "colorPrimaryLight",
       "foreground": "colorForeground",
       "selectedBackground": "colorPrimary",
       "selectedForeground": "colorForeground",

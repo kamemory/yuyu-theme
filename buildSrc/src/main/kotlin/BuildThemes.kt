@@ -136,7 +136,7 @@ open class BuildThemes : DefaultTask() {
 
         return mapOf(
             "colorPrimary" to colorMap.color500,
-            "colorPrimarySubtle" to colorMap.color900,
+            "colorPrimarySubtle" to lightMap.color900,
             "colorPrimaryLight" to lightMap.color800,
             "colorPrimaryDark" to colorMap.color400,
             "colorPrimaryHover" to colorMap.color600,
